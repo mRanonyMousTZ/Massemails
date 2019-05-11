@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#E-bomber
+#massemails
 #tumia kwa makini am not responsible.
 #Use it at your own risk !!!
 
@@ -20,7 +20,7 @@ import getpass
 import sys
 
 
-server = raw_input ('MailServer Gmail/Yahoo: ')
+server = raw_input ('MailServer gmail/yahoo: ')
 user = raw_input('Email: ')
 passwd = getpass.getpass('Password: ')
 
@@ -52,7 +52,7 @@ try:
         subject = os.urandom(9)
         msg = 'From: ' + user + '\nSubject: ' + subject + '\n' + body
         server.sendmail(user,to,msg)
-        print "\rE-mails sent: %i" % i
+        print "\rfucked email sent: %i" % i
         sys.stdout.flush()
     server.quit()
     print '\n AM DONE  !!!'
