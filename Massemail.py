@@ -6,7 +6,7 @@
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>            mass email program                    >\n";
-print "\t>         Coded By mr_Anonymous                    >\n";
+print "\t>         Coded By AuxGrep(mranonymous)                   >\n";
 print "\t>           USE AT UR OWN RISK                     >\n";
 print "\t>         TANZANIA BLACK HATS 2019                 >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
